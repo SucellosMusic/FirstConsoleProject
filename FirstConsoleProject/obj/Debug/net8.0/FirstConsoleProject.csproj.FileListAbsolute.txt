@@ -1,0 +1,14 @@
+e:\Documents\CSProjects\FirstConsoleProject\bin\Debug\net8.0\FirstConsoleProject.exe
+e:\Documents\CSProjects\FirstConsoleProject\bin\Debug\net8.0\FirstConsoleProject.deps.json
+e:\Documents\CSProjects\FirstConsoleProject\bin\Debug\net8.0\FirstConsoleProject.runtimeconfig.json
+e:\Documents\CSProjects\FirstConsoleProject\bin\Debug\net8.0\FirstConsoleProject.dll
+e:\Documents\CSProjects\FirstConsoleProject\bin\Debug\net8.0\FirstConsoleProject.pdb
+e:\Documents\CSProjects\FirstConsoleProject\obj\Debug\net8.0\FirstConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+e:\Documents\CSProjects\FirstConsoleProject\obj\Debug\net8.0\FirstConsoleProject.AssemblyInfoInputs.cache
+e:\Documents\CSProjects\FirstConsoleProject\obj\Debug\net8.0\FirstConsoleProject.AssemblyInfo.cs
+e:\Documents\CSProjects\FirstConsoleProject\obj\Debug\net8.0\FirstConsoleProject.csproj.CoreCompileInputs.cache
+e:\Documents\CSProjects\FirstConsoleProject\obj\Debug\net8.0\FirstConsoleProject.dll
+e:\Documents\CSProjects\FirstConsoleProject\obj\Debug\net8.0\refint\FirstConsoleProject.dll
+e:\Documents\CSProjects\FirstConsoleProject\obj\Debug\net8.0\FirstConsoleProject.pdb
+e:\Documents\CSProjects\FirstConsoleProject\obj\Debug\net8.0\FirstConsoleProject.genruntimeconfig.cache
+e:\Documents\CSProjects\FirstConsoleProject\obj\Debug\net8.0\ref\FirstConsoleProject.dll
